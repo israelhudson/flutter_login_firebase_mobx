@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "528286119098",
+    "firebase_url": "https://slidy-da30d.firebaseio.com",
+    "project_id": "slidy-da30d",
+    "storage_bucket": "slidy-da30d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528286119098:android:5d6a9dd4dbf387e1e6fe83",
+        "android_client_info": {
+          "package_name": "br.com.ihudtecnologia.flutter_login_firebase_mobx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528286119098-ollobeavc62nvhb8sk2v2h0i8o81i38b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ihudtecnologia.flutter_login_firebase_mobx",
+            "certificate_hash": "df997cb18337985ac94d7fdeb6f2ff40cad8c1ac"
+          }
+        },
+        {
+          "client_id": "528286119098-tnme3cskhc8nnltp1r6lou2kkflg9hbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaWuVV4ol4MXgUNQUNwYcqI60MqcsQ3RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528286119098-tnme3cskhc8nnltp1r6lou2kkflg9hbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
